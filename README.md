@@ -14,7 +14,6 @@ A lightweight Flutter plugin that compresses PDF files on **iOS devices** using 
   - Original size in MB
   - Compressed size in MB
   - Compressed PDF file path
-- Works seamlessly with `file_picker` and `share_plus`
 
 ---
 
